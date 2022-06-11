@@ -1,9 +1,5 @@
 # 404CTF 2022
 
-![](.\challenge_404_LOGO.png "logo")
-
-
-
 Rank : 37th
 
 ## Solved challenges
