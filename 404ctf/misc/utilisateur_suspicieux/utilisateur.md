@@ -16,7 +16,8 @@ Flag : 404CTF{D1sc0rd_&_injection_SQL}
 ## Part 2 
 
 Here we gain access to the debugger which is a shell stripped out of alot of commands. We have echo so to print the contents of flag.txt without cat : 
-```
-$ echo "$(<flag.txt)"
-
+```sh 
+bash-4.4$ echo "$(<flag.txt)"
+echo "$(<flag.txt)"
+404CTF{17_s_4g155417_3n_f4iT_d_1_b0t}
 ```
