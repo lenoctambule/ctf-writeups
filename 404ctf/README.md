@@ -1,6 +1,6 @@
 # 404CTF 2022
 
-![](.\challenge_404_LOGO.png "cbimage.png")
+![](.\challenge_404_LOGO.png "logo")
 
 
 
