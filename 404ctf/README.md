@@ -1,5 +1,9 @@
 # 404CTF 2022
 
+![](.\challenge_404_LOGO.png "cbimage.png")
+
+
+
 Rank : 37th
 
 ## Solved challenges
@@ -18,8 +22,8 @@ Rank : 37th
 
 ### Coding :
 
-* 128Code128
-* Données corrompu
+* [128Code128](https://github.com/lenoctambule/ctf-writeups/blob/main/404ctf/prog/128Code128/code128.md)
+* [Données corrompu](https://github.com/lenoctambule/ctf-writeups/blob/main/404ctf/prog/corrompu/corrompu.md)
 * Découpé
 * Compression
 
@@ -30,10 +34,11 @@ Rank : 37th
 
 ### Crypto :
 
+* un RSA incassable 
 * Un simple oracle 1/2
 * Un simple oracle 2/2
 * La fonte des hashs
-* Weak Signature
+* Weak Signature 
 
 ### Misc :
 
@@ -41,9 +46,9 @@ Rank : 37th
 * Je suis une théière
 * Par cable
 * Gogolfplex
-* Un utilisateur suspiceux 1/2 ([Writeup](https://github.com/lenoctambule/ctf-writeups/blob/main/404ctf/misc/utilisateur_suspicieux/utilisateur.md))
-* Un utilisateur suspiceux 2/2 ([Writeup](https://github.com/lenoctambule/ctf-writeups/blob/main/404ctf/misc/utilisateur_suspicieux/utilisateur.md))
-* 8 Vers 10 ([Writeup](https://github.com/lenoctambule/ctf-writeups/blob/main/404ctf/misc/8vers10/8vers10.md))
+* [Un utilisateur suspiceux 1/2](https://github.com/lenoctambule/ctf-writeups/blob/main/404ctf/misc/utilisateur_suspicieux/utilisateur.md)
+* [Un utilisateur suspiceux 2/2](https://github.com/lenoctambule/ctf-writeups/blob/main/404ctf/misc/utilisateur_suspicieux/utilisateur.md)
+* [8 Vers 10](https://github.com/lenoctambule/ctf-writeups/blob/main/404ctf/misc/8vers10/8vers10.md)
 
 ### Reversing : 
 
@@ -51,11 +56,11 @@ Rank : 37th
 * Renverser la tour 1/2
 * Renverser la tour 2/2
 * Mise à jour requise
-* Pas de mise à jour 
+* Pas de mise à jour
 
 ### Steganography :
 
-* Plume à la main
-* Stereographie ([Writeup]())
+* Plume à la main 
+* [Stereographie](https://github.com/lenoctambule/ctf-writeups/blob/main/404ctf/steg/stereographie/stereographie.md)
 * PNG : Un logo obèse 1/4
 * PNG : Drôle de chimère 2/4
