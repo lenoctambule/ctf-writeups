@@ -37,15 +37,17 @@ Rank : 37th
 
 ### Misc :
 
+* Pierre-papier-hallebarde
 * Je suis une théière
 * Par cable
 * Gogolfplex
-* Un utilisateur suspiceux 1/2
-* Un utilisateur suspiceux 2/2
+* Un utilisateur suspiceux 1/2 ([Writeup](https://github.com/lenoctambule/ctf-writeups/blob/main/404ctf/misc/utilisateur_suspicieux/utilisateur.md))
+* Un utilisateur suspiceux 2/2 ([Writeup](https://github.com/lenoctambule/ctf-writeups/blob/main/404ctf/misc/utilisateur_suspicieux/utilisateur.md))
+* 8 Vers 10 ([Writeup](https://github.com/lenoctambule/ctf-writeups/blob/main/404ctf/misc/8vers10/8vers10.md))
 
 ### Reversing : 
 
-* Mot de passe ?
+* Mot de passe ? 
 * Renverser la tour 1/2
 * Renverser la tour 2/2
 * Mise à jour requise
@@ -54,6 +56,6 @@ Rank : 37th
 ### Steganography :
 
 * Plume à la main
-* Stereographie
+* Stereographie ([Writeup]())
 * PNG : Un logo obèse 1/4
 * PNG : Drôle de chimère 2/4
