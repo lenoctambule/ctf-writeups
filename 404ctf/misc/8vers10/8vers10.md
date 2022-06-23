@@ -39,7 +39,7 @@ I'm scratching my head looking at those 0s and 1s, they don't seem to mean anyth
 
 And what we find is 8b/10b encoding used in fiber optics. From the Wikipedia page it says that it is *"a line code that maps 8-bit words to 10-bit symbols to achieve DC balance and bounded disparity, ... blablabla"* (I didn't get any of that).
 
-![](./pics/bruh.jpg "Spikey round")
+![](./pics/bruh.jpg "bruh")
 
  But if we read a bit further we find something readable by mortals: 
  > *"the difference between the counts of ones and zeros in a string of at least 20 bits is no more than two, and that there are not more than five ones or zeros in a row"*

@@ -20,7 +20,7 @@ Offset  Banner
 0x3c196dd4      Linux version 5.4.0-107-generic (buildd@lcy02-amd64-070) (gcc version 7.5.0 (Ubuntu 7.5.0-3ubuntu1~18.04)) #121~18.04.1-Ubuntu SMP Thu Mar 24 17:21:33 UTC 2022 (Ubuntu 5.4.0-107.121~18.04.1-generic 5.4.174)
 ```
 
-We need a Linux Kernel which version is 5.4.0-107 that has been compiled using gcc 7.5.0. So we replicate the same setup in virtual machine and use the kernel to retrieve the symbol and type information needed for the analysis of our memory dump.
+We need a Linux Kernel which version is 5.4.0-107 that has been compiled using gcc 7.5.0. So we replicate the same setup in a virtual machine and use the kernel to retrieve the symbol and type information needed for the analysis of our memory dump.
 
 To install the correct kernel :
 

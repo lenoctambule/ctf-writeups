@@ -1,9 +1,9 @@
 # 404CTF 2022
 
-Those are the write-ups of the challenges I solved for 404CTF 2022 organized by TelecomSudParis, I really had a blast doing this CTF while at the same time rediscovering french history.
+Those are the write-ups of the challenges I solved for 404CTF 2022 organized by TelecomSudParis's cybersecurity club HackademINT & DGSE. I really had a blast doing this CTF while at the same time rediscovering french history.
 
-Rank : 37th
-Points : 31431
+**Rank** : 37th  
+**Points** : 31431
 
 ## Solved challenges
 
@@ -29,7 +29,7 @@ Points : 31431
 ### Pwn :
 
 * Trop facile
-* Sans protection
+* [Sans protection](https://github.com/lenoctambule/ctf-writeups/blob/main/404ctf\pwn\sans_protection\exploit.py)
 
 ### Crypto :
 
