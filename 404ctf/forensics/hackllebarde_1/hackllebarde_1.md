@@ -3,7 +3,7 @@
 ## Task
 We are given packet capture of suspicious network traffic and we have to find out what information was exfiltrated
 
-### Process
+## Process
 
 First, we yeet out everything else except the requests that are being sent out to port 1337 with this filter :
 ```
