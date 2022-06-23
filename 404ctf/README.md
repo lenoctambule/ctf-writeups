@@ -16,8 +16,8 @@ Points : 31431
 * Agent Compromis 3/3
 * SOS RAID 1/2
 * SOS RAID 2/2
-* Hackllebarde Ransomware 1/4
-* Hackllebarde Ransomware 2/4
+* [Hackllebarde Ransomware 1/4](https://github.com/lenoctambule/ctf-writeups/blob/main/404ctf/forensics/hackllebarde_1)
+* [Hackllebarde Ransomware 2/4](https://github.com/lenoctambule/ctf-writeups/blob/main/404ctf/forensics/hackllebarde_1)
 
 ### Coding :
 
