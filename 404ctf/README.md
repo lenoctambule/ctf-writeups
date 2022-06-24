@@ -29,7 +29,7 @@ Those are the write-ups of the challenges I solved for 404CTF 2022 organized by 
 ### Pwn :
 
 * Trop facile
-* [Sans protection](https://github.com/lenoctambule/ctf-writeups/blob/main/404ctf\pwn\sans_protection\exploit.py)
+* [Sans protection](https://github.com/lenoctambule/ctf-writeups/blob/main/404ctf/pwn/sans_protection/exploit.py)
 
 ### Crypto :
 
