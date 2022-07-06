@@ -11,9 +11,9 @@ Those are the write-ups of the challenges I solved for 404CTF 2022 organized by 
 
 * Floppy
 * Ping Pong
-* Agent Compromis 1/3
-* Agent Compromis 2/3
-* Agent Compromis 3/3
+* [Agent Compromis 1/3](https://github.com/lenoctambule/ctf-writeups/blob/main/404ctf/forensics/agent_compromis_1)
+* [Agent Compromis 2/3](https://github.com/lenoctambule/ctf-writeups/blob/main/404ctf/forensics/agent_compromis_2)
+* [Agent Compromis 3/3](https://github.com/lenoctambule/ctf-writeups/blob/main/404ctf/forensics/agent_compromis_3)
 * SOS RAID 1/2
 * SOS RAID 2/2
 * [Hackllebarde Ransomware 1/4](https://github.com/lenoctambule/ctf-writeups/blob/main/404ctf/forensics/hackllebarde_1)
