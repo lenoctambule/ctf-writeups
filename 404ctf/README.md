@@ -1,9 +1,16 @@
 # 404CTF 2022
 
+<img src="./pics/challenge%20404_LOGO-1.png" width="400"/>
+
+
 Those are the write-ups of the challenges I solved for 404CTF 2022 organized by TelecomSudParis's cybersecurity club HackademINT & DGSE. I really had a blast doing this CTF while at the same time rediscovering french history.
+
+![](./pics/classementfinal.PNG "")
 
 **Rank** : 37th / 2460  
 **Points** : 31431
+
+I've decided to make a write up only for the challenges I found interesting to write on. They are highlighted in blue.
 
 ## Solved challenges
 

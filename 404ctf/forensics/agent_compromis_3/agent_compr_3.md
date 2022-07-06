@@ -107,7 +107,11 @@ Then if we go look at object 11, we notice that it's location is off compared to
 
 ![](.\pics\cap1.PNG "")
 
-From that we can easily extrapolate what the content was and repair it. Afterwards, we get this : 
+From that we can easily extrapolate what the content was and repair it. We add in the missing part which is : 
+```
+ 0 R >>[LF]endobj[LF][LF]
+``` 
+Afterwards the object number 11 is at the right place (starts at byte 8928 just like in the cross ref table) and it should look like this : 
 
 ![](.\pics\cap2.PNG "")
 
