@@ -7,8 +7,8 @@ We are given base64 strings and converted we get pngs of barcodes encoded in Cod
 If I sum up what this code does : 
 1. It reads the base64 given by remote.
 2. It converts it into an image stored temporarily as temp-img.png.
-3. It reads the bits by reading the horizontal pixels. 
-3. And finally decodes the code 128 using a text file that I extracted from Wikipedia's page table using this online [converter](https://www.convertcsv.com/html-table-to-csv.htm) as a conversion table and then I shift the resulting values by 32 to get the ASCII.
+3. It reads the bits by reading the horizontal pixels one by one. 
+3. And finally decodes the code 128 using a text file that I extracted from Wikipedia's page conversion table using this [online converter](https://www.convertcsv.com/html-table-to-csv.htm) as a conversion table and then I shift the resulting values by 32 to get the ASCII values.
 
 ```python
 import base64

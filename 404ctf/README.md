@@ -1,11 +1,11 @@
 # 404CTF 2022
-
+<p align="center">
 <img src="./pics/challenge%20404_LOGO-1.png" width="400"/>
-
+</p>
 
 Those are the write-ups of the challenges I solved for 404CTF 2022 organized by TelecomSudParis's cybersecurity club HackademINT & DGSE. I really had a blast doing this CTF while at the same time rediscovering french history.
 
-![](./pics/classementfinal.PNG "")
+![](./pics/classementfinal-upscaled.PNG "")
 
 **Rank** : 37th / 2460  
 **Points** : 31431
@@ -58,7 +58,7 @@ I've decided to make a write up only for the challenges I found interesting to w
 
 ### Reversing : 
 
-* Mot de passe ? 
+* Mot de passe ?
 * Renverser la tour 1/2
 * Renverser la tour 2/2
 * Mise à jour requise
