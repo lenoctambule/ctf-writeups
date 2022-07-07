@@ -59,10 +59,10 @@ I've decided to make a write up only for the challenges I found interesting to w
 ### Reversing : 
 
 * Mot de passe ?
-* Renverser la tour 1/2
-* Renverser la tour 2/2
-* Mise à jour requise
-* Pas de mise à jour
+* [Renverser la tour 1/2](https://github.com/lenoctambule/ctf-writeups/blob/main/404ctf/reverse/tour_1)
+* [Renverser la tour 2/2](https://github.com/lenoctambule/ctf-writeups/blob/main/404ctf/reverse/tour_2)
+* [Mise à jour requise](https://github.com/lenoctambule/ctf-writeups/blob/main/404ctf/reverse/maj_requise)
+* [Pas de mise à jour](https://github.com/lenoctambule/ctf-writeups/blob/main/404ctf/reverse/pas_de_maj)
 
 ### Steganography :
 

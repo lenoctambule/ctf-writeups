@@ -1,4 +1,6 @@
 #!/usr/bin/python3.10
+
+#---------Fonctions de bases---------
 import random as rd
 
 s = [16, 3, 12, 9, 1, 60, 1, 3, 14, 39, 13, 16, 16, 1, 9, 13, 3, 39, 60,
@@ -62,6 +64,8 @@ def c(p, n=0):
             return rd.randint(0,30) == f and c(rest, n + 1)
 ##
 
+#---------Fonctions iteratives---------
+
 def a_it(c) :
     n = ord(c)
     rd.seed(n)
@@ -102,7 +106,7 @@ print("Iterative :")
 print(b_it("404CTF"))
 """
 
-
+#---------Fonctions inverses---------
 
 def c_rev() :
     res = []
