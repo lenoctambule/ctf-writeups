@@ -5,7 +5,7 @@
 
 Those are the write-ups of the challenges I solved for 404CTF 2022 organized by TelecomSudParis's cybersecurity club HackademINT & DGSE. I really had a blast doing this CTF while at the same time rediscovering french history.
 
-![](./pics/classementfinal-upscaled.PNG "")
+![](./pics/classementfinal.PNG "")
 
 **Rank** : 37th / 2460  
 **Points** : 31431
