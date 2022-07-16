@@ -22,18 +22,13 @@ def tour3(password):
         print([ ord(c) for c in mdp ] )
     return "".join(mdp)
 
-mdp = tour3(tour2(tour1("abcdefghijklmnopq")))
 
-print(mdp)
-
-"""
 mdp = input("Mot de passe : ")
 
 if tour3(tour2(tour1(mdp))) == "¡P6¨sÉU1T0d¸VÊvçu©6RÈx¨4xFw5":
     print("Bravo ! Le flag est 404CTF{" + mdp + "}")
 else :
     print("Désolé, le mot-de-passe n'est pas correct")
-"""
 
 
 
