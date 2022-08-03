@@ -12,7 +12,7 @@ http
 ```
 And we scroll down we find a GET method HTTP request for a file named exfiltration.py.
 
-![](.\pics\cap1.PNG "")
+![]( pics\cap1.PNG "")
 
 Right after we get the response with the contents of the file inside and at the very end of it there is our flag. We save the file for later use because it'll be useful.
 
