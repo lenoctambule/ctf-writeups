@@ -41,10 +41,10 @@ I've decided to make a write up only for the challenges I found interesting to w
 ### Crypto :
 
 * un RSA incassable 
-* Un simple oracle 1/2
-* Un simple oracle 2/2
+* [Un simple oracle 1/2](https://github.com/lenoctambule/ctf-writeups/blob/main/404ctf/crypto/oracle_1/oracle_1.md)
+* [Un simple oracle 2/2](https://github.com/lenoctambule/ctf-writeups/blob/main/404ctf/crypto/oracle_2/oracle_2.md)
 * La fonte des hashs
-* Weak Signature 
+* [Weak Signature](https://github.com/lenoctambule/ctf-writeups/blob/main/404ctf/crypto/weak_signature/weak_signature.md) 
 
 ### Misc :
 
