@@ -17,7 +17,7 @@ We launch it in ghidra and read the pseudo code to find out what is happening. A
 5) Receiver decrypts the data using AES-CBC
 ```
 
-Then looking at Ghidra, we get the values of variables that interests us the most which are the initialization value and the key.
+Then we look for the values of variables that interests us the most which are the initialization value and the key.
 
 Finding the initialization value is straight forward :
 ```c
