@@ -13,8 +13,8 @@ We launch it in ghidra and read the pseudo code to find out what is happening. A
 1) Sender sends length of data
 2) Receiver verifies length
 3) Sender encrypts the data using AES-CBC and then sends it
-4) Receiver verifies that the length corresponds to the real size of the data
-5) Receiver receives and decrypts the data using AES-CBC
+4) Receiver receives and verifies that the length corresponds to the real size of the data
+5) Receiver decrypts the data using AES-CBC
 ```
 
 Then looking at Ghidra, we get the values of variables that interests us the most which are the initialization value and the key.
