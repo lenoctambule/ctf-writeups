@@ -17,7 +17,7 @@ Well, quick and easy maths, let's try to just input -1 because :
 $$ \text{ if d is odd then } \\
 (-1)^d \equiv n-1  [n] \\
 \text{ else } \\
-(-1)^d \equiv n-1  [n] 
+(-1)^d \equiv 1  [n] 
 $$
 
 Well bingo ! Then we just repeat the same thing as in the first part and get our flag using the python terminal :
